@@ -1,0 +1,15 @@
+
+node version 12.16.2
+
+cd C:\Users\dell\Desktop\Presa Rapport a imprimer\Aoolication PFE FINALE\backEnd
+
+set PORT=5000
+
+set APP_TOKEN_KEY=0000
+
+node index.js
+
+
+npm install @tensorflow/tfjs-node-gpu
+
+npm install @tensorflow/tfjs-node

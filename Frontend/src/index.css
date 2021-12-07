@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap");
+body {
+  overflow-y: scroll;
+  min-height: 1000px;
+  font-family: "Comfortaa", cursive;
+}
+
+.pointer {
+  cursor: pointer;
+}
